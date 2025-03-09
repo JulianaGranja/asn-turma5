@@ -1,6 +1,7 @@
-# asn-turma5
+# asn-turma5 (Título)
+Um curso de data science
 
-## Aula 01
+## Aula 01 (Subtítulo)
 
 ### Episódio 01
 
