@@ -6,3 +6,7 @@ Um curso de data science
 ### Episódio 01 - Instalação Windows
 
 ### Episódio 02 - Instalação Mac
+
+### Episodio 03 - Instalação Linux
+
+Aula 02
